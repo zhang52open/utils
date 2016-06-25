@@ -1,0 +1,58 @@
+		<!-- qiniu -->
+		<dependency>
+		    <groupId>com.qiniu</groupId>
+		    <artifactId>qiniu-java-sdk</artifactId>
+		</dependency>
+			
+		<!-- okhttp -->
+		<dependency>
+		  <groupId>com.squareup.okhttp</groupId>
+		  <artifactId>okhttp</artifactId>
+		</dependency>
+		
+		<!-- jmimemagic -->
+		<dependency>
+			<groupId>jmimemagic</groupId>
+			<artifactId>jmimemagic</artifactId>
+		</dependency>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		---------------------------------------
+		<!-- qiniu -->
+			<dependency>
+			    <groupId>com.qiniu</groupId>
+			    <artifactId>qiniu-java-sdk</artifactId>
+			    <version>${qiniu.sdk.version}</version>
+			</dependency>
+			
+			<!-- okhttp -->
+			<dependency>
+			  <groupId>com.squareup.okhttp</groupId>
+			  <artifactId>okhttp</artifactId>
+			  <version>${okhttp.version}</version>
+			</dependency>
+			
+			<!-- jmimemagic -->
+			<dependency>
+				<groupId>jmimemagic</groupId>
+				<artifactId>jmimemagic</artifactId>
+				<version>${jmimemagic.version}</version>
+			</dependency>
+		
+		
+		
+		----------------------------------------------------
+		
+		<qiniu.sdk.version>7.0.99</qiniu.sdk.version>
+		<okhttp.version>2.5.0</okhttp.version>
+		<jmimemagic.version>0.1.2</jmimemagic.version>
+		
+		
